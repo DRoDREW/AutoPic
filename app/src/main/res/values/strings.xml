@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoPic</string>
+    <string name="library_tab">Library</string>
+    <string name="search_tab">Search</string>
+    <string name="assistant_tab">Assistant</string>
+    <string name="settings_tab">Settings</string>
+</resources>

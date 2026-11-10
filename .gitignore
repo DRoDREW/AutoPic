@@ -3,3 +3,14 @@
 
 # Ada Library Information
 *.ali
+
+# Android / Gradle
+.gradle/
+.vscode/
+local.properties
+**/build/
+**/captures/
+**/.cxx/
+**/bin/
+**/obj/
+*.iml
